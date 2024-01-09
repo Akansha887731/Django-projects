@@ -1,1 +1,2 @@
-To create a new project : django-admin startproject <project name>
+To create a new project: django-admin startproject <project name>
+To run server: python manage.py runserver
